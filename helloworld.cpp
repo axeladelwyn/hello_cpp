@@ -18,5 +18,8 @@ int main()
     {
         cout << word << " ";
     }
+
+    std::cout << "babuga?\n";
+    
     cout << endl;
 }
