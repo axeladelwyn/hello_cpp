@@ -20,6 +20,7 @@ int main()
     }
 
     std::cout << "babuga?\n";
+    std::cout << "new text\n";
     
     cout << endl;
 }
